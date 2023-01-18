@@ -1,0 +1,14 @@
+{
+    "name": "diet-bill-statement/diet-bill-statement",
+    "type": "project",
+    "description": "A simple class project",
+    "keywords": [],
+    "license": "",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app//"
+        }
+    }
+}
